@@ -6,7 +6,7 @@ This project focuses on fine-tuning a Transformer-based chatbot for customer sup
 - Fine-tuned Transformer model for customer support.
 - Utilizes NLP evaluation metrics: BLEU, F1-score, perplexity.
 - Hyperparameter tuning for optimized performance.
-- Model deployment for mobile applications using Flutter.
+- Model deployment for web applications using Html CSS Javascript.
 
 ## Dataset
 - **Source**: [Bitext Customer Support Dataset](https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset)
@@ -43,7 +43,7 @@ The trained model is integrated into a Flutter mobile application for real-time 
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/customer-support-chatbot.git
+   git clone https://github.com/Azeezmariam/customer-support-chatbot.git
    ```
 2. Install dependencies:
    ```bash
@@ -57,7 +57,7 @@ The trained model is integrated into a Flutter mobile application for real-time 
    ```bash
    python evaluate.py
    ```
-5. Deploy to a mobile app using Flutter.
+5. Deploy to Web Application.
 
 ## Future Improvements
 - Optimize model size for low-resource environments.

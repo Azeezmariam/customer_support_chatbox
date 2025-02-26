@@ -64,6 +64,9 @@ The trained model is integrated into a Flutter mobile application for real-time 
 - Enhance dataset with more diverse customer support queries.
 - Improve response coherence through further fine-tuning.
 
+  ## Model
+ - https://drive.google.com/drive/folders/1iiKAlMGFCNmruY5DRslHknUCQ35_vkC8?usp=drive_link
+
 ## References
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
 - [Bitext Customer Support Dataset](https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset)
